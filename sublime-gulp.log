@@ -1,0 +1,18 @@
+Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp
+
+12-30-2017 02:50:
+D:\web practical\my shop\.sublime-gulp-tmp.js:80
+	gulp.watch('app/*.html'browserSync.stream);
+	           ^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at requireGulp (C:\Users\igrek\AppData\Roaming\Sublime Text 3\Packages\Gulp\write_tasks_to_cache.js:28:16)
